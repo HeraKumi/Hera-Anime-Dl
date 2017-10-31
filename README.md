@@ -6,7 +6,7 @@ This is a simple but yet a maintained anime download CLI client for downloading 
 
 * step 2: using git clone to download the repo: `git clone https://github.com/HeraKumi/Hera-anime-dl`
 
-* Step 3: Installing the dependencies needed for hera-anime-dl to work `npm I -s`
+* Step 3: Installing the dependencies needed for hera-anime-dl to work `npm i -s`
 
 * Step 4: Running the app, cd or open the folder called main and run `node main.js` and if all has gone well you should be greeted with a welcome and questions, if not feel free to create a ticket issue on GitHub or by click [this](https://github.com/HeraKumi/Hera-anime-dl/issues) and creating an issue
 
