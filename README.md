@@ -8,12 +8,12 @@ This is a simple but yet a maintained anime download CLI client for downloading 
 
 * Step 3: Installing the dependencies needed for hera-anime-dl to work `npm I -s`
 
-* Step 4: Running the app, cd or open the folder called main and run `node main.js` and if all has gone well you be greeted with a welcome and questions, if not feel free to create a ticket issue on GitHub or by click [this](https://github.com/HeraKumi/Hera-anime-dl/issues) and creating an issue
+* Step 4: Running the app, cd or open the folder called main and run `node main.js` and if all has gone well you should be greeted with a welcome and questions, if not feel free to create a ticket issue on GitHub or by click [this](https://github.com/HeraKumi/Hera-anime-dl/issues) and creating an issue
 
 # Basic Usage
 `node main.js` this command should run the app, If not you should report the problem to the dev [here](https://github.com/HeraKumi/Hera-anime-dl/issues).
 
-You should now see a question asking you what anime you want to download, Choose a name for the anime you want to get a downlink from and press enter. Thus by pressing enter, you should see a new question asking you to input an episode number, so input an episode number. Now that part is done, now waiting a few seconds you should see something an output like this
+You should now see a question asking you what anime you want to download, Choose a name for the anime you want to get a downlink for and press enter. Thus by pressing enter, you should see a new question asking you to input an episode number, so enter an episode number. Now that part is done, you should now wait a few seconds, after waiting you should see an output like this
 ``` 
 {
   title: 'One Piece',
@@ -26,6 +26,6 @@ You should now see a question asking you what anime you want to download, Choose
   ]
 }
 ```
-so here is the good part you see where says URLS? copy one of the links to get the anime show you wanted and paste into a new tab in your browser and it should start downloading
+so here is the good part you see where it says URLS? copy one of the links to get the anime episode you wanted and paste it into a new tab in your browser and it should start downloading.
 
 The video will be downloaded into you're Downloads folder.
