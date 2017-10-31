@@ -4,7 +4,7 @@ This is a simple but yet a maintained anime download CLI client for downloading 
 # Installing hera-anime-dl via npm method
 * Step 1: Making sure you have installed node and npm If you don't have it installed please refer to youtube and the node website on how to install node with npm
 
-* Step 2: `npm -I hera-anime-dl -g` you will download the console to be used anywhere on your computer by issuing the command `hera-anime-dl` thus giving you access to the node console app
+* Step 2: `npm i hera-anime-dl -g` you will download the console to be used anywhere on your computer by issuing the command `hera-anime-dl` thus giving you access to the node console app
 
 * Step 3: Refer to the Basic usage down below on how to use the console app.
 
