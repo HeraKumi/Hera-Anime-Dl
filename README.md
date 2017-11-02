@@ -16,9 +16,6 @@ This is a simple but yet a animetained anime download CLI client for downloading
 You should now see a question asking you what anime you want to download, Choose a name for the anime you want to get a downlink for and press enter. Thus by pressing enter, you should see a new question asking you to input an episode number, so enter an episode number. Now that part is done, you should now wait a few seconds, after waiting you should see an output like this
 ``` 
 {
-  title: 'One Piece',
-  codeName: 'one-piece',
-  chapter: '732',
   urls: [
     'http://jkanime.net/stream/jkmedia/83b83090f08cbe7823cb0ed531f8cc72/0f40333b749a2a6d1bc5706accd73329/1/1de4451f8844a9c171830d25ff1cebbb/',
     'http://jkanime.net/stream/jkmedia/83b83090f08cbe7823cb0ed531f8cc72/4f501d26373b56e0fe0351c1a6154bd4/1/1de4451f8844a9c171830d25ff1cebbb/',
