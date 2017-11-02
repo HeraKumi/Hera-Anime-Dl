@@ -1,5 +1,5 @@
 # Hera-anime-dl
-This is a simple but yet a maintained anime download CLI client for downloading anime
+This is a simple but yet a animetained anime download CLI client for downloading anime
 
 # Installing hera-anime-dl via git clone method
 * Step 1: If you have installed node and npm (recommended latest version node 8) then you are fine, If you haven't installed node or npm I recommend using youtube to help you install it
@@ -8,10 +8,10 @@ This is a simple but yet a maintained anime download CLI client for downloading 
 
 * Step 3: Installing the dependencies needed for hera-anime-dl to work `npm i -s`
 
-* Step 4: Running the app, cd or open the folder called main and run `node main.js` and if all has gone well you should be greeted with a welcome and questions, if not feel free to create a ticket issue on GitHub or by click [this](https://github.com/HeraKumi/Hera-anime-dl/issues) and creating an issue
+* Step 4: Running the app, cd or open the folder called anime and run `node anime.js` and if all has gone well you should be greeted with a welcome and questions, if not feel free to create a ticket issue on GitHub or by click [this](https://github.com/HeraKumi/Hera-anime-dl/issues) and creating an issue
 
 # Basic Usage
-`node main.js` this command should run the app, If not you should report the problem to the dev [here](https://github.com/HeraKumi/Hera-anime-dl/issues).
+`node anime.js` this command should run the app, If not you should report the problem to the dev [here](https://github.com/HeraKumi/Hera-anime-dl/issues).
 
 You should now see a question asking you what anime you want to download, Choose a name for the anime you want to get a downlink for and press enter. Thus by pressing enter, you should see a new question asking you to input an episode number, so enter an episode number. Now that part is done, you should now wait a few seconds, after waiting you should see an output like this
 ``` 
