@@ -1,6 +1,6 @@
 {
   "name": "hera-anime-dl",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "A simple but usefult cli for getting and returning anime video links / download link of the anime name and spisode number you input into the cli thus returning a link you can copy and paste into a browser. Simple really.",
   "main": "anime.js",
   "scripts": {
