@@ -4,7 +4,8 @@
   "description": "A simple but usefult cli for getting and returning anime video links / download link of the anime name and spisode number you input into the cli thus returning a link you can copy and paste into a browser. Simple really.",
   "main": "anime.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Main/anime.js"
   },
   "repository": {
     "type": "git",
@@ -29,7 +30,10 @@
   "homepage": "https://github.com/HeraKumi/Hera-anime-dl#readme",
   "dependencies": {
     "anime-dl": "^4.0.7",
+    "appjs-win32": "0.0.19",
     "boxen": "^1.2.2",
-    "input": "^1.0.1"
-  }
+    "input": "^1.0.1",
+    "remote": "^0.2.6"
+  },
+  "devDependencies": {}
 }
