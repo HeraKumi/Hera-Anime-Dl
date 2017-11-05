@@ -15,3 +15,17 @@ async function animeDownload() {
 }
 
 animeDownload();
+
+/* 
+const anime = require('anime-dl')
+
+const query = 'boku no kanojo'
+const results = await anime.searchAnime(query)
+
+if (results.length > 0) {
+    const name = results[0].name
+    console.log(results[0])
+    const chapter = '1'
+    const data = await anime.getLinksByNameAndChapter(name, chapter)
+}
+ */
