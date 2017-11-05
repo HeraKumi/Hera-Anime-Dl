@@ -7,8 +7,8 @@ console.log(boxen("Welcome to Hera's Anime Download CLI console application", {p
 
 
 async function animeDownload() {
-    const name = await input.text('What anime would you like to download?');
-    const chapter = await input.text('And now what episode would you like to download')
+    const name = await input.text('What anime would you like to download? || ');
+    const chapter = await input.text('And now what episode would you like to download || ')
     anime.getLinksByNameAndChapter(name, chapter).then((data)=>{
         console.log(chalk.green(data.urls));
     });
