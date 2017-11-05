@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/hera-anime-dl.svg)](https://badge.fury.io/js/hera-anime-dl)
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
-[![https://nodei.co/npm/hera-anime-dl.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/hera-anime-dl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/Hera-anime-dl)
+[![https://nodei.co/npm/hera-anime-dl.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/hera-anime-dl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hera-anime-dl)
 [![HitCount](http://hits.dwyl.io/HeraKumi/Hera-anime-dl.svg)](http://hits.dwyl.io/HeraKumi/Hera-anime-dl)
 
 
