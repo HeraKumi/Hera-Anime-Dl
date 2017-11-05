@@ -30,7 +30,6 @@
   "homepage": "https://github.com/HeraKumi/Hera-anime-dl#readme",
   "dependencies": {
     "anime-dl": "^4.0.7",
-    "appjs-win32": "0.0.19",
     "boxen": "^1.2.2",
     "chalk": "^2.3.0",
     "input": "^1.0.1",
