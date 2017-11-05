@@ -8,8 +8,8 @@
 This is a simple but yet a easy to use anime download CLI client for downloading anime also with a GUI version
 
 # Want a GUI?
-Windows : [Download](https://mega.nz/#!Eq5XjRxC!czE9hDKDG6ZfKE4OPRMj-_apv3WqVKy9LGLNXu4a4lc)
-Linux : [Download](https://mega.nz/#!ci4xwJhQ!W5u92XuqORT4FW-fmNWYVzRbu_GTaRGwM9uMAvXrbSg)
+Windows : [Download](https://mega.nz/#!Eq5XjRxC!czE9hDKDG6ZfKE4OPRMj-_apv3WqVKy9LGLNXu4a4lc) | [VirusTotal](https://www.virustotal.com/#/file/75ad7a085cf692d91721d7fcfbbbb9b9798078a07d7b62296c5b6c19f1838852/detection)
+Linux : [Download](https://mega.nz/#!ci4xwJhQ!W5u92XuqORT4FW-fmNWYVzRbu_GTaRGwM9uMAvXrbSg) | 
 
 
 Not working on linux?
