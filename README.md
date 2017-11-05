@@ -5,6 +5,13 @@ This is a simple but yet a animetained anime download CLI client for downloading
 Windows : [Download](https://mega.nz/#!Eq5XjRxC!czE9hDKDG6ZfKE4OPRMj-_apv3WqVKy9LGLNXu4a4lc)
 Linux : [Download](https://mega.nz/#!ci4xwJhQ!W5u92XuqORT4FW-fmNWYVzRbu_GTaRGwM9uMAvXrbSg)
 
+
+Not working on linux?
+* Step 1: Download and extract the files to the desktop or anywhere you prefer
+* Step 2: Open a terminal and cd into the directory you have extracted the files
+* Step 3: `chmod +x Hera-Anime-Dl-Gui`
+* Step 3: Now excute the file Hera-Anime-Dl-Gui with the following command `./Hera-Anime-Dl-Gui` and now you have access the GUI version of the cli <3
+
 # Installing hera-anime-dl via git clone method
 * Step 1: If you have installed node and npm (recommended latest version node 8) then you are fine, If you haven't installed node or npm I recommend using youtube to help you install it
 
