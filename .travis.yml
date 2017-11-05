@@ -1,5 +1,5 @@
 language: node_js
-os: win32
+os: any
 group: stable
 arch: any
 node_js:
