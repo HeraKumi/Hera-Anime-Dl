@@ -1,5 +1,4 @@
 const input = require('input');
-const chalkAnimation = require('chalk-animation');
 const chalk = require('chalk');
 const anime = require('anime-dl');
 const boxen = require('boxen');
