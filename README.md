@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/hera-anime-dl.svg)](https://badge.fury.io/js/hera-anime-dl)
 # Hera-anime-dl
 This is a simple but yet a animetained anime download CLI client for downloading anime
 
