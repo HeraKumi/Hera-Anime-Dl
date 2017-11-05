@@ -9,7 +9,7 @@ let bar = new ProgressBar(':bar', { total: 50 });
 let timer = setInterval(function () {
   bar.tick();
   if (bar.complete) {
-      console.log(boxen("Welcome to Hera's Anime Download CLI console application", {padding: 1, margin: 1, borderStyle: 'double'}));
+      console.log(chalk.red(boxen("Welcome to Hera's Anime Download CLI console application", {padding: 1, margin: 1, borderStyle: 'double'})));
       
       async function animeDownload() {
           const name = await input.text('What anime would you like to download? || ');
