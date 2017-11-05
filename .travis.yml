@@ -1,5 +1,9 @@
 language: node_js
-os: any
+os:
+  - linux
+  - osx
+  - win32
+  - win64
 group: stable
 arch: any
 node_js:
