@@ -5,7 +5,7 @@
 
 
 # Hera-anime-dl
-This is a simple but yet a animetained anime download CLI client for downloading anime
+This is a simple but yet a easy to use anime download CLI client for downloading anime also with a GUI version
 
 # Want a GUI?
 Windows : [Download](https://mega.nz/#!Eq5XjRxC!czE9hDKDG6ZfKE4OPRMj-_apv3WqVKy9LGLNXu4a4lc)
